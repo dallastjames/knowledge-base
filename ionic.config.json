@@ -1,5 +1,7 @@
 {
   "name": "KnowledgeBase",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
